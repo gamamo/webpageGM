@@ -42,7 +42,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-2571-1207
-
+- icon: inaturalist
+  icon_pack: ai
+  link: https://www.inaturalist.org/people/611944
   
 superuser: true
 title: Gabriel Massaine Moulatet
