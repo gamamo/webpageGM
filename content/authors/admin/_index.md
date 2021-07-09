@@ -2,6 +2,9 @@
 bio:
 education:
   courses:
+  - course: MSc in Biology/Ecology
+    institution: National Institute for Amazonia Research (INPA, Manaus, Brazil)
+    year: 2012
   - course: PhD in Biosciences
     institution: University of Turku
     year: 2017
@@ -9,8 +12,10 @@ email: ""
 highlight_name: false
 interests:
 - Tropical Ecology
-- Ferns
-- Soils
+- Neotropical FLora
+- Tropical Soils
+- Environmental Impact Assessement
+
 organizations:
 - name: 
   url: 
@@ -31,10 +36,18 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gamamo
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/G-Moulatlet
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2571-1207
+
+  
 superuser: true
 title: Gabriel Massaine Moulatet
 ---
 
-Hi! This is me testing my new website
+I am a biologist with broad interest in tropical ecology. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
