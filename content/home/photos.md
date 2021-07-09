@@ -9,12 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Photos
+title: Field work photos
 subtitle:
 
 design:
   columns: '2'
 ---
 
-{{< gallery album="photosga" >}}
 
